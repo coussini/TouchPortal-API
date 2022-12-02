@@ -105,6 +105,8 @@ ADDITIONAL_PYINSTALLER_ARGS = [
     "--log-level=WARN"
 ]
 
+ADDITIONAL_TPPSDK_ARGS = []
+
 # validateBuild()
 
 if __name__ == "__main__":
